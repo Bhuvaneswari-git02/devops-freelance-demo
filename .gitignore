@@ -2,3 +2,7 @@ app/venv/
 app/__pycache__/
 *.pyc
 .env
+
+# SSL certificates and private keys
+certbot/conf/
+certbot/www/
